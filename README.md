@@ -1,4 +1,4 @@
-# A bunch of unfinished projects
+# A bunch of unfinished projects.
 
 ### 👋🏼 ← The hand has blue lines.
 
