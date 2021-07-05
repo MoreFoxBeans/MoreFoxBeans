@@ -1,10 +1,9 @@
-# A bunch of unfinished projects.
+# All the unfinished projects you could ever need.
 
 ### 👋🏼 ← The hand has blue lines.
 
 - 💻 I'm currently working on deciding what to work on next.
-- 🌱 I'm currently learning C#.
+- 🌱 I'm currently learning things to learn.
 - 📪 How to reach me: _you don't_.
-- 🗺 I live in Denver, Colorado, USA.
-- 🚹 Pronouns: He/Him
+- 🗺 I live on Earth.
 - ⚡ Fun fact: 👋🏼👋🏼👋🏼👋🏼👋🏼.
