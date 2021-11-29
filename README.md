@@ -1,6 +1,6 @@
 # 👋🏼 Hello there!
 
-I'm Seth H, a 13 year old programmer. I like to code, do graphic design, and Windows 10 skinning.
+I'm Seth H, a 13 year old programmer. I like coding, graphic design, and Windows 10 skinning.
 
 My favorite programming languages are JavaScript, Python, and Processing 3. My favorite IDE is Visual Studio Code. I use Photoshop for graphic design and Stardock WindowBlinds for Windows skinning.
 
