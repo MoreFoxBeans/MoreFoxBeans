@@ -1,6 +1,6 @@
 # 👋🏼 sussy among us 🥶🥶❄
 
-Hey there! I'm Seth H, a 14-year-old self-taught programmer. I've been coding since I was seven years old, but only started getting serious when I was about 10. My main interests are coding, graphic design, and I also love reading and listening to music.
+Hey there! I'm Seth H, a 14-year-old self-taught programmer. I've been coding since I was seven years old, but only started getting serious when I was about 10. My main interests are coding, graphic design, and I also love reading and listening to music. I am an avid supporter of the Serial Comma (also known as the Oxford Comma).
 
 My main programming languages are JavaScript, Processing 4, Python, C, and Lua. I also really love programming embedded systems, including game consoles and calculators. I have many projects that I haven't yet published to GitHub but I'm working on that :). I use Visual Studio Code as my main IDE, with my favorite coding fonts being Comic Mono and Jetbrains Mono.
 
