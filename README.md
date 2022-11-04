@@ -1,4 +1,4 @@
-# 👋🏼 sussy among us 🥶🥶❄
+# 👋🏼 sussy among us 🥶🥶❄️
 
 Hey there! I'm Seth H, a 14-year-old self-taught programmer. I've been coding since I was seven years old, but only started getting serious when I was about 10. My main interests are coding, graphic design, and I also love reading and listening to music. I support the Serial/Oxford Comma.
 
