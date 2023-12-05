@@ -5,7 +5,7 @@
 - School projects
 - Cleaning my room 🧹
 
-Nice to meet you! I'm Seth, a 15-year-old (almost 16, I might be 16 by the time you read this if I forget to update it 😅) designer, artist, and programmer. My main interests are coding and various forms of digital arts, and I also love photography (and editing photos!), listening to music, and reading!
+Nice to meet you! I'm Seth, a 16-year-old designer, artist, and programmer. My main interests are coding and various forms of digital arts, and I also love photography (and editing photos!), listening to music, and reading!
 
 My fav programming languages are JavaScript, Python, C++, Processing, and Lua. I also really love programming embedded systems like game consoles, TI calculators, and Arduinos. I use Visual Studio Code as my IDE, with my favorite coding fonts being [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans) and [Comic Code](https://tosche.net/fonts/comic-code) (I don't own Comic Code but I'm gonna buy it eventually!)
 
